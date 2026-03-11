@@ -46,5 +46,5 @@ Email: mohammedrifadtp@gmail.com
 
 ---
 
-⭐ Always excited to build impactful applications and grow as a Full Stack Developer.
+⭐ Always excited to build impactful applications and grow as a Full Stack Developer..
 
